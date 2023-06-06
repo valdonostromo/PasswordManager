@@ -1,0 +1,11 @@
+00:12 - uruchomienie programu
+00:16 - tworzenie pliku
+00:25 - dodawanie hasła do pliku
+00:36 - automatyczne generowanie hasła
+01:14 - dodanie kolejnego hasła
+01:24 - hasło dodawane ręcznie
+01:37 - ponowne wyświetlenie listy opcji
+01:43 - wyszukiwanie hasła
+01:58 - sortowanie haseł
+02:59 - usuwanie hasła po nazwie
+03:29 - usuwanie haseł z danej kategorii
